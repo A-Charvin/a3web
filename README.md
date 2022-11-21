@@ -17,6 +17,18 @@ Primary Design  - Charvin
 3. Services/Team - Suruchi
 4. Projects/Mission - Jose
 
+Planned Pages : 
+Home
+About
+Services
+Work
+Why Us
+Case Study
+Mission & Vision
+Development Process
+Client Reviews
+Our Clients
+
 CSS/JScript/Jquery - Collaborative (4)
 
 GitHUB setup and Sync - Implemented on 3 / Technical issues on one (Will be resolved) Week 11
