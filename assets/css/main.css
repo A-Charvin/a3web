@@ -1530,6 +1530,7 @@ input, select, textarea {
 		-ms-transition: all .25s ease-in-out;
 		transition: all .25s ease-in-out;
 		-webkit-appearance: none;
+		appearance: none;
 		display: block;
 		border: 0;
 		background: #eee;
@@ -2009,7 +2010,7 @@ input, select, textarea {
 
 		.wrapper.style1 {
 			background: #e97770 url("images/overlay.png");
-			color: #eee;
+			color: rgb(245, 244, 244);
 			color: rgba(255, 255, 255, 0.75);
 		}
 
