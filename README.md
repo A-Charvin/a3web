@@ -12,25 +12,22 @@ Task Assignment
 <strong> Content & Pages </strong>
 
 Primary Design  - Charvin
-1. Home Page/404 - Charvin
-2. About Page/Careers - Rajeev
-3. Services/Team - Suruchi
-4. Projects/Mission - Jose
+Theme  : 
+Escape Velocity by HTML5 UP
+html5up.net | @ajlkn
+Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
-Planned Pages : 
-Home
-About
-Services
-Work
-Why Us
-Case Study
-Mission & Vision
-Development Process
-Client Reviews
-Our Clients
+<strong> Pages </strong> 
+1. Home Page/Careers - Charvin
+2. Project/Missions - Rajeev
+3. Future/Other - Suruchi
+4. More/Team - Jose
+
+
 
 CSS/JScript/Jquery - Collaborative (4)
 
 GitHUB setup and Sync - Implemented on 3 / Technical issues on one (Will be resolved) Week 11
 Design Finalization   - Week 11
 Template Code review & Deployment - Week 12
+Fully Deployed - Week 14
