@@ -78,11 +78,6 @@ input, select, textarea {
 	appearance: none;
 }
 
-img.two {
-	height: auto !important;;
-	width: auto !important;;
-}
-
 /* Basic */
 
 	@-ms-viewport {
